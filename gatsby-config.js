@@ -7,6 +7,7 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-gatsby-cloud`,
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
